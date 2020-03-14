@@ -17,11 +17,3 @@ def get_the_values(groceries)
 }
 
 end
-
-puts groceries.values
-
-puts groceries.keys
-
-puts groceries.keys.flatten
-
-puts groceries.values.flatten.min
