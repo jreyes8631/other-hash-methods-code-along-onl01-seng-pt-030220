@@ -19,9 +19,9 @@ def get_the_values(groceries)
 end
 
 puts groceries.values
-puts "//////////////////////"
+
 puts groceries.keys
-puts "//////////////////////"
+
 puts groceries.keys.flatten
-puts "//////////////////////"
+
 puts groceries.values.flatten.min
